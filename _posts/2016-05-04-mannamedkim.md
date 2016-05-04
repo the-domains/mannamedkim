@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://mannamedkim.com'
-  name: Kim Williams is Man Named Kim
-  favicon: 'http://mannamedkim.com/favicon.ico'
-  domain: mannamedkim.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://mannamedkim.com/#about-kim-williams'
+inLanguage: en
 keywords:
   - pulpit
   - networking
@@ -18,17 +16,20 @@ keywords:
   - sales
   - privilege
 description: "A Man Named Kim?!? In 1901, Nobel Prize winning English author, Rudyard Kipling's book, Kim, was published. 57 years later, Claudia Elizabeth Williams was reading that book while pregnant with her third child. The story tells of an orphan Indian/English child named Kim - and refers to the meaning of his name as 'Friend of the World.'"
-inLanguage: en
+datePublished: '2016-05-04T20:29:48.381Z'
+dateModified: '2016-05-04T20:29:33.620Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://mannamedkim.com/#about-kim-williams'
 title: ManNamedKim
-datePublished: '2016-05-04T20:00:30.183Z'
-dateModified: '2016-05-04T17:02:47.046Z'
+authors: []
+publisher:
+  name: Kim Williams is Man Named Kim
+  domain: mannamedkim.com
+  url: 'http://mannamedkim.com'
+  favicon: 'http://mannamedkim.com/favicon.ico'
 starred: false
 sourcePath: _posts/2016-05-04-mannamedkim.md
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
