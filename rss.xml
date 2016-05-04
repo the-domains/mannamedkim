@@ -4,8 +4,22 @@
         <description><![CDATA[Meet Kim the Man]]></description>
         <link>https://thegrid.ai/mannamedkim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 20:04:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 20:29:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mannamedkim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ManNamedKim]]></title>
+            <description><![CDATA[<article><h1>ManNamedKim</h1><p>A Man Named Kim?!? In 1901, Nobel Prize winning English author, Rudyard Kipling's book, Kim, was published. 57 years later, Claudia Elizabeth Williams was reading that book while pregnant with her third child. The story tells of an orphan Indian/English child named Kim - and refers to the meaning of his name as 'Friend of the World.'</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f52a03db0d622cee30ebaf2843b8426aaabf9038.jpg"></article>]]></description>
+            <link>http://mannamedkim.com/#about-kim-williams</link>
+            <guid isPermaLink="false">15df6d8a-4501-4305-9d5a-7f4c9998a465</guid>
+            <pubDate>Wed, 04 May 2016 20:29:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2909e1-b658-49a2-b281-e9d5d53f995d.jpg">]]></description>
+            <link>https://thegrid.ai/mannamedkim/cf90e378-630e-4315-b3e9-d39464a9975d/index.html</link>
+            <guid isPermaLink="false">cf90e378-630e-4315-b3e9-d39464a9975d</guid>
+            <pubDate>Wed, 04 May 2016 20:04:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7cd4c2d8-7401-41fc-a7d8-47b2904da2c6.jpg">]]></description>
@@ -61,13 +75,6 @@
             <link>https://thegrid.ai/mannamedkim/b56cfad2-741b-4d23-9bd2-e768d276447a/index.html</link>
             <guid isPermaLink="false">b56cfad2-741b-4d23-9bd2-e768d276447a</guid>
             <pubDate>Wed, 04 May 2016 16:53:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36df9151-88e4-4921-9675-62b434af09de.jpg">]]></description>
-            <link>https://thegrid.ai/mannamedkim/f1fdae1b-89b7-4a64-8434-4dfd956053ab/index.html</link>
-            <guid isPermaLink="false">f1fdae1b-89b7-4a64-8434-4dfd956053ab</guid>
-            <pubDate>Wed, 04 May 2016 16:53:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
