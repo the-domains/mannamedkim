@@ -1,6 +1,6 @@
 name: ManNamedKim
 favicon: null
-layout_spectrum: 0.42862
+layout_spectrum: 1
 typography_spectrum: 0.06400926574133337
 title: Meet Kim the Man
 cta:
@@ -22,8 +22,8 @@ color:
     - '#d4e3f1'
     - '#292b22'
     - '#ca8f90'
-  brandStrength: 0.75
-  lightness: 0.9375
-  saturation: 0.07619763165712357
-  rhythmicContrast: 0.6617336247581989
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
